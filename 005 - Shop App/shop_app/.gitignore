@@ -12,6 +12,8 @@
 **/android
 **/ios
 
+/lib/providers/secrets.dart
+
 # IntelliJ related
 *.iml
 *.ipr
